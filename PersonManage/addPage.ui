@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>addPageClass</class>
+ <widget class="QMainWindow" name="addPageClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>添加个人信息</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="3" column="4">
+     <widget class="QLabel" name="label_8">
+      <property name="text">
+       <string>职务</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="1" colspan="3">
+     <widget class="QDoubleSpinBox" name="salary">
+      <property name="decimals">
+       <number>2</number>
+      </property>
+      <property name="maximum">
+       <double>999999999999999.000000000000000</double>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="0">
+     <widget class="QLabel" name="label_6">
+      <property name="text">
+       <string>部门</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="1" colspan="3">
+     <widget class="QTextEdit" name="phoneNo"/>
+    </item>
+    <item row="2" column="4">
+     <widget class="QLabel" name="label_7">
+      <property name="text">
+       <string>工号</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="1" colspan="3">
+     <widget class="QTextEdit" name="department"/>
+    </item>
+    <item row="6" column="4">
+     <widget class="QPushButton" name="close">
+      <property name="text">
+       <string>关闭</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="5">
+     <widget class="QTextEdit" name="name_employeeNo"/>
+    </item>
+    <item row="0" column="1" colspan="3">
+     <widget class="QTextEdit" name="name"/>
+    </item>
+    <item row="1" column="5" alignment="Qt::AlignmentFlag::AlignRight">
+     <widget class="QComboBox" name="comboBoxsex">
+      <item>
+       <property name="text">
+        <string>男</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>女</string>
+       </property>
+      </item>
+     </widget>
+    </item>
+    <item row="0" column="4">
+     <widget class="QLabel" name="label_2">
+      <property name="text">
+       <string>身份证号</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="0" colspan="2">
+     <widget class="QLabel" name="label_4">
+      <property name="text">
+       <string>出生日期</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="0">
+     <widget class="QLabel" name="label_9">
+      <property name="text">
+       <string>工资</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="5">
+     <widget class="QTextEdit" name="id"/>
+    </item>
+    <item row="6" column="1" colspan="3">
+     <widget class="QPushButton" name="submit">
+      <property name="text">
+       <string>提交</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="0">
+     <widget class="QLabel" name="label_3">
+      <property name="text">
+       <string>手机号</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="5">
+     <widget class="QTextEdit" name="post"/>
+    </item>
+    <item row="1" column="2" colspan="2">
+     <widget class="QDateEdit" name="birthday"/>
+    </item>
+    <item row="0" column="0">
+     <widget class="QLabel" name="label">
+      <property name="text">
+       <string>姓名</string>
+      </property>
+     </widget>
+    </item>
+    <item row="6" column="5">
+     <widget class="QPushButton" name="cancel">
+      <property name="text">
+       <string>取消</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="4">
+     <widget class="QLabel" name="label_5">
+      <property name="text">
+       <string>性别</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="0">
+     <widget class="QLabel" name="label_10">
+      <property name="text">
+       <string>地址</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="1" colspan="5">
+     <widget class="QTextEdit" name="address"/>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

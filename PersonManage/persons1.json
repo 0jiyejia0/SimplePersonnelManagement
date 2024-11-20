@@ -1,0 +1,146 @@
+[
+    {
+        "address": "123 Main St",
+        "birthday": {
+            "day": 20,
+            "month": 5,
+            "year": 1980
+        },
+        "department": "HR",
+        "employeeNo": "E001",
+        "id": "12345678",
+        "name": "Alice1",
+        "phoneNo": "123456789011",
+        "post": "Manager",
+        "salary": 50000.0,
+        "sex": "女"
+    },
+    {
+        "address": "456 Elm St",
+        "birthday": {
+            "day": 15,
+            "month": 8,
+            "year": 1990
+        },
+        "department": "IT",
+        "employeeNo": "E002",
+        "id": "211",
+        "name": "Bob",
+        "phoneNo": "0987654321",
+        "post": "Developer",
+        "salary": 60000.0,
+        "sex": "男"
+    },
+    {
+        "address": "abcdef",
+        "birthday": {
+            "day": 1,
+            "month": 1,
+            "year": 2000
+        },
+        "department": "aa",
+        "employeeNo": "54321",
+        "id": "3",
+        "name": "jiyejia12",
+        "phoneNo": "12345",
+        "post": "bb",
+        "salary": 114514.0,
+        "sex": "男"
+    },
+    {
+        "address": "公安",
+        "birthday": {
+            "day": 1,
+            "month": 1,
+            "year": 2000
+        },
+        "department": "鉴黄师",
+        "employeeNo": "001",
+        "id": "110",
+        "name": "cjl11",
+        "phoneNo": "110",
+        "post": "1",
+        "salary": 50000.0,
+        "sex": "男"
+    },
+    {
+        "address": "",
+        "birthday": {
+            "day": 1,
+            "month": 1,
+            "year": 2000
+        },
+        "department": "",
+        "employeeNo": "",
+        "id": "1111",
+        "name": "sb",
+        "phoneNo": "",
+        "post": "",
+        "salary": 0.0,
+        "sex": "男"
+    },
+    {
+        "address": "123",
+        "birthday": {
+            "day": 1,
+            "month": 1,
+            "year": 2000
+        },
+        "department": "321",
+        "employeeNo": "321",
+        "id": "5555511",
+        "name": "123",
+        "phoneNo": "321",
+        "post": "123",
+        "salary": 0.0,
+        "sex": "男"
+    },
+    {
+        "address": "",
+        "birthday": {
+            "day": 1,
+            "month": 1,
+            "year": 2000
+        },
+        "department": "",
+        "employeeNo": "",
+        "id": "444444",
+        "name": "",
+        "phoneNo": "",
+        "post": "",
+        "salary": 0.0,
+        "sex": "男"
+    },
+    {
+        "address": "",
+        "birthday": {
+            "day": 1,
+            "month": 1,
+            "year": 2000
+        },
+        "department": "",
+        "employeeNo": "",
+        "id": "77811334",
+        "name": "",
+        "phoneNo": "",
+        "post": "",
+        "salary": 0.0,
+        "sex": "男"
+    },
+    {
+        "address": "",
+        "birthday": {
+            "day": 1,
+            "month": 1,
+            "year": 2000
+        },
+        "department": "",
+        "employeeNo": "",
+        "id": "321312",
+        "name": "",
+        "phoneNo": "",
+        "post": "",
+        "salary": 0.0,
+        "sex": "男"
+    }
+]
