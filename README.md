@@ -1,0 +1,1 @@
+This project is a simple personnel management system developed using Qt. It aims to provide basic functionalities for managing personnel information, including adding, editing, deleting, and viewing employee details.
